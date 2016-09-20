@@ -2,18 +2,14 @@
 
 ## What's the most useful thing you've learned in class so far?
 _type your answers below, and we'll merge them into one document_
-
 I'm learning a lot about teaching myself new technologies.
-I'm now have the ability to look at the screen in front of me and think about how things are computed into that interface.
+I love Markdown! I think its really interesting to understand the behind the scenes formating that goes into creating words on a page. 
 
 ## What's the most interesting thing you've learned in class so far? 
 _type your answers below, and we'll merge them into one document_
-
-I really enjoy learning markdown and think it will be an interesting tool to use in the future.
+Im actually learning a lot more about my own interest in digital media as a whole. 
 
 ## What would you like to see different in this class so far?
 _type your answers below, and we'll merge them into one document_
-
-I think that maybe spending more time working with the computers, familiarizing ourselves with different programs, might be beneficial to us.
-
+I can't say yet...I'm looking forward to creating more things!
 I'd love to do less talking.
